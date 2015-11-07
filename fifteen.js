@@ -1,4 +1,5 @@
 "use strict";
+//EXTRA FEATURE USED: ALERT AT THE END AND CHANGING OF THE BACKGROUND
 var div;
 var blink;
 var timer;
